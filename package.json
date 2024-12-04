@@ -1,0 +1,16 @@
+{
+  "name": "amzmc-galaxy-loader",
+  "version": "1.0.0",
+  "description": "A Loader for AMZMC Galaxy",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node initmain.mjs"
+  },
+  "keywords": [],
+  "author": "CaotainPax",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
